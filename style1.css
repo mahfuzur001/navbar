@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+
+}
+.nav{
+    background-color: aqua;
+    border-radius: 25px;
+}
+.nav ul {
+    overflow: auto;
+    margin: 10px;
+}
+
+.nav li{
+    list-style: none;
+    float: right;
+    margin: 20px;
+    
+}
+
+.nav li a{
+    text-decoration: none;
+    padding: 3px;
+    
+}
+.input {
+    top: 20px;
+    position: absolute;
+    
+    float: left;
+}
+input{
+    border-radius: 10px;
+    margin: 10px;
+}
